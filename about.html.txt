@@ -1,0 +1,79 @@
+<!Doctype html>
+<head><title> Our Team</title></head>
+<body background="2pic.jpg">
+<header>
+<a href="ABOUT.html">
+
+<table border="5" width="50%" bgcolor="white" height="9">
+<tr>
+ <th><a href="index.html">HOME</a></th> 
+<th><a href="ABOUT.html">ABOUT</a></th>
+<th><a href="CONTACT.html">CONTACT</a></th>
+<th><a href="VIDEO.html">VIDEO</a></th>
+<th><a href="GALLERY.html">GALLERY</a></th>
+<th><a href="MUSIC.html">MUSIC</a></th>
+</tr>
+</table>
+
+<body>
+<table border="0" align="center">
+     <font face="Bookman old style"><b><i><u><center><h1>OUR TEAM</font>  
+<tr>
+          
+
+    </td>
+<td>                   <td><img src="1profile.jpg"height="200"width="200" style=
+                    "border-radius:100%"></td>
+
+    </td>
+<td>
+      
+          <font face="Bookman old style"><b><i><u><center><p>Hi, I'am Ana Bettina Decena,
+I am a one of a kind person.
+I love doing things that motivated me specially in computer because i know it will help build my self a strong independent women in the future.</font>
+
+  </td>
+<td>
+      
+            <td><img src="2profile.jpg"height="200"width="200" style=
+                    "border-radius:100%"></td>
+
+         </td>
+<td>
+
+          <font face="Bookman old style"><b><i><u><center><p>Hi! I'am Paolo Madrigal. I am a person who works hard and is enthused, motivated by myself, dependable, and responsible.</font>
+         
+  </td>
+</tr>
+<tr>
+<td>
+
+               
+
+               <td><img src="3profile.jpg"height="200"width="200" style=
+                    "border-radius:100%"></td
+
+         </td>
+<td>
+         
+            <font face="Bookman old style"><b><i><u><center><p>Hi I'am Cristine Camasis, you can call me tine. I was born in manila my short term goal is i want a platform to show my skills and grow my career. I am always enthusiastic to grow myself.</font>
+
+         </td>
+<td>   
+            <td><img src="profile4.jpg"height="200"width="200" style=
+                    "border-radius:100%"></td
+
+</td>
+<td>
+        <font face="Bookman old style"><b><i><u><center><p>I'am Angela Flores.My dedication to mentoring and helping others has helped me create successful teams that support each other..</font>
+
+</td>
+<td>
+
+<table>
+</td>
+<td>
+
+
+</body>
+</html>

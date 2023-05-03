@@ -1,0 +1,25 @@
+<!Doctype html>
+<head><title> OUR TEAM</title></head>
+<body background="33pic.jpg">
+<header>
+<a href="CONTACT.html">
+
+<table border="5" width="50%" bgcolor="white" height="9">
+<tr>
+ <th><a href="index.html">HOME</a></th> 
+<th><a href="ABOUT.html">ABOUT</a></th>
+<th><a href="CONTACT.html">CONTACT</a></th>
+<th><a href="VIDEO.html">VIDEO</a></th>
+<th><a href="GALLERY.html">GALLERY</a></th>
+<th><a href="MUSIC.html">MUSIC</a></th>
+</tr>
+</table>
+
+<body>
+<font face="Bookman old style"><b><i><u><center><h1>OUR TEAM</h1></center</u></i></b></font>
+
+<p><font face="Arial" size="4"><i> Email Account: groupedsite084gmail.com
+</i>
+</font
+</body>
+</html>
